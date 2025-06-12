@@ -1,0 +1,250 @@
+start;end;shorthand;extended;majminInv;majmin;majminNumeric;quality;inversion;roman;localkey
+002.496;004.810;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+004.810;006.811;C:7/E;C:(3, 5, b7)/E;C:maj/E;C:maj;1;D7;1;V65;F:min
+006.811;007.822;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+007.822;008.743;C:7/G;C:(3, 5, b7)/G;C:maj/G;C:maj;1;D7;2;V43;F:min
+008.743;009.578;F:min/Ab;F:(b3, 5)/Ab;F:min/Ab;F:min;18;m;1;i6;F:min
+009.578;010.241;G:dim/Bb;G:(b3, b5)/Bb;G:min/Bb;G:min;20;d;1;ii-6;F:min
+010.241;012.462;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V;F:min
+012.462;014.819;C:min;C:(b3, 5);C:min;C:min;13;m;0;iii;Ab:maj
+014.819;015.891;Db:maj7/F;Db:(3, 5, 7)/F;Db:maj/F;Db:maj;2;M7;1;IV65;Ab:maj
+015.891;016.931;Bb:min7;Bb:(b3, 5, b7);Bb:min;Bb:min;23;m7;0;ii7;Ab:maj
+016.931;017.965;Eb:7/Bb;Eb:(3, 5, b7)/Bb;Eb:maj/Bb;Eb:maj;4;D7;2;V43;Ab:maj
+017.965;018.985;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+018.985;019.527;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;ii6;Ab:maj
+019.527;020.028;Bb:7/D;Bb:(3, 5, b7)/D;Bb:maj/D;Bb:maj;11;D7;1;V65/V;Ab:maj
+020.028;021.046;Eb:maj;Eb:(3, 5);Eb:maj;Eb:maj;4;M;0;V;Ab:maj
+021.046;021.581;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;ii6;Ab:maj
+021.581;022.076;Bb:7/D;Bb:(3, 5, b7)/D;Bb:maj/D;Bb:maj;11;D7;1;V65/V;Ab:maj
+022.076;023.129;Eb:maj;Eb:(3, 5);Eb:maj;Eb:maj;4;M;0;V;Ab:maj
+023.129;023.628;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;ii6;Ab:maj
+023.628;024.127;Bb:7/D;Bb:(3, 5, b7)/D;Bb:maj/D;Bb:maj;11;D7;1;V65/V;Ab:maj
+024.127;024.912;Eb:maj;Eb:(3, 5);Eb:maj;Eb:maj;4;M;0;V;Ab:maj
+024.912;026.636;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+026.636;026.867;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+026.867;028.565;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+028.565;028.815;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+028.815;029.536;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+029.536;030.023;Eb:7/Db;Eb:(3, 5, b7)/Db;Eb:maj/Db;Eb:maj;4;D7;3;V42;Ab:maj
+030.023;030.505;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+030.505;030.987;Eb:maj/G;Eb:(3, 5)/G;Eb:maj/G;Eb:maj;4;M;1;V6;Ab:maj
+030.987;031.412;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+031.412;031.877;D:dim/F;D:(b3, b5)/F;D:min/F;D:min;15;d;1;vii-6/V;Ab:maj
+031.877;032.375;Eb:maj;Eb:(3, 5);Eb:maj;Eb:maj;4;M;0;V;Ab:maj
+032.375;032.833;D:dim/F;D:(b3, b5)/F;D:min/F;D:min;15;d;1;vii-6/V;Ab:maj
+032.833;033.316;Eb:maj;Eb:(3, 5);Eb:maj;Eb:maj;4;M;0;V;Ab:maj
+033.316;033.798;G:dim7/Db;G:(b3, b5, bb7)/Db;G:min/Db;G:min;20;d7;2;vii-43;Ab:maj
+033.798;034.282;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+034.282;034.727;G:dim7/Db;G:(b3, b5, bb7)/Db;G:min/Db;G:min;20;d7;2;vii-43;Ab:maj
+034.727;035.214;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+035.214;035.662;Eb:maj/G;Eb:(3, 5)/G;Eb:maj/G;Eb:maj;4;M;1;V6;Ab:maj
+035.662;036.136;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+036.136;036.604;Eb:7/Bb;Eb:(3, 5, b7)/Bb;Eb:maj/Bb;Eb:maj;4;D7;2;V43;Ab:maj
+036.604;037.601;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+037.601;038.545;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;ii6;Ab:maj
+038.545;039.516;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+039.516;040.477;Eb:7/Db;Eb:(3, 5, b7)/Db;Eb:maj/Db;Eb:maj;4;D7;3;V42;Ab:maj
+040.477;041.506;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+041.506;042.488;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;ii6;Ab:maj
+042.488;043.465;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+043.465;044.431;Eb:7/Db;Eb:(3, 5, b7)/Db;Eb:maj/Db;Eb:maj;4;D7;3;V42;Ab:maj
+044.431;044.995;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+044.995;045.480;D:dim7;D:(b3, b5, bb7);D:min;D:min;15;d7;0;vii-7/V;Ab:maj
+045.480;046.017;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+046.017;046.548;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+046.548;047.103;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+047.103;047.578;D:dim7;D:(b3, b5, bb7);D:min;D:min;15;d7;0;vii-7/V;Ab:maj
+047.578;048.115;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+048.115;048.572;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+048.572;049.154;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+049.154;049.657;D:dim7;D:(b3, b5, bb7);D:min;D:min;15;d7;0;vii-7/V;Ab:maj
+049.657;050.184;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+050.184;050.832;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+050.832;053.212;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+053.212;055.596;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+055.596;057.623;C:7/E;C:(3, 5, b7)/E;C:maj/E;C:maj;1;D7;1;V65;F:min
+057.623;058.659;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+058.659;059.766;C:7/G;C:(3, 5, b7)/G;C:maj/G;C:maj;1;D7;2;V43;F:min
+059.766;060.437;F:min/Ab;F:(b3, 5)/Ab;F:min/Ab;F:min;18;m;1;i6;F:min
+060.437;061.107;G:dim/Bb;G:(b3, b5)/Bb;G:min/Bb;G:min;20;d;1;ii-6;F:min
+061.107;063.551;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V;F:min
+063.551;065.970;C:min;C:(b3, 5);C:min;C:min;13;m;0;iii;Ab:maj
+065.970;067.046;Db:maj7/F;Db:(3, 5, 7)/F;Db:maj/F;Db:maj;2;M7;1;IV65;Ab:maj
+067.046;068.122;Bb:min7;Bb:(b3, 5, b7);Bb:min;Bb:min;23;m7;0;ii7;Ab:maj
+068.122;069.150;Eb:7/Bb;Eb:(3, 5, b7)/Bb;Eb:maj/Bb;Eb:maj;4;D7;2;V43;Ab:maj
+069.150;070.224;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+070.224;070.716;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;ii6;Ab:maj
+070.716;071.240;Bb:7/D;Bb:(3, 5, b7)/D;Bb:maj/D;Bb:maj;11;D7;1;V65/V;Ab:maj
+071.240;072.289;Eb:maj;Eb:(3, 5);Eb:maj;Eb:maj;4;M;0;V;Ab:maj
+072.289;072.799;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;ii6;Ab:maj
+072.799;073.309;Bb:7/D;Bb:(3, 5, b7)/D;Bb:maj/D;Bb:maj;11;D7;1;V65/V;Ab:maj
+073.309;074.369;Eb:maj;Eb:(3, 5);Eb:maj;Eb:maj;4;M;0;V;Ab:maj
+074.369;074.866;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;ii6;Ab:maj
+074.866;075.363;Bb:7/D;Bb:(3, 5, b7)/D;Bb:maj/D;Bb:maj;11;D7;1;V65/V;Ab:maj
+075.363;076.136;Eb:maj;Eb:(3, 5);Eb:maj;Eb:maj;4;M;0;V;Ab:maj
+076.136;077.854;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+077.854;078.126;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+078.126;079.817;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+079.817;080.079;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+080.079;080.811;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+080.811;081.285;Eb:7/Db;Eb:(3, 5, b7)/Db;Eb:maj/Db;Eb:maj;4;D7;3;V42;Ab:maj
+081.285;081.760;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+081.760;082.234;Eb:maj/G;Eb:(3, 5)/G;Eb:maj/G;Eb:maj;4;M;1;V6;Ab:maj
+082.234;082.705;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+082.705;083.215;D:dim/F;D:(b3, b5)/F;D:min/F;D:min;15;d;1;vii-6/V;Ab:maj
+083.215;083.659;Eb:maj;Eb:(3, 5);Eb:maj;Eb:maj;4;M;0;V;Ab:maj
+083.659;084.140;D:dim/F;D:(b3, b5)/F;D:min/F;D:min;15;d;1;vii-6/V;Ab:maj
+084.140;084.632;Eb:maj;Eb:(3, 5);Eb:maj;Eb:maj;4;M;0;V;Ab:maj
+084.632;085.124;G:dim7/Db;G:(b3, b5, bb7)/Db;G:min/Db;G:min;20;d7;2;vii-43;Ab:maj
+085.124;085.585;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+085.585;086.045;G:dim7/Db;G:(b3, b5, bb7)/Db;G:min/Db;G:min;20;d7;2;vii-43;Ab:maj
+086.045;086.544;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+086.544;087.002;Eb:maj/G;Eb:(3, 5)/G;Eb:maj/G;Eb:maj;4;M;1;V6;Ab:maj
+087.002;087.463;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+087.463;087.925;Eb:7/Bb;Eb:(3, 5, b7)/Bb;Eb:maj/Bb;Eb:maj;4;D7;2;V43;Ab:maj
+087.925;088.900;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+088.900;089.918;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;ii6;Ab:maj
+089.918;090.858;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+090.858;091.842;Eb:7/Db;Eb:(3, 5, b7)/Db;Eb:maj/Db;Eb:maj;4;D7;3;V42;Ab:maj
+091.842;092.799;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+092.799;093.741;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;ii6;Ab:maj
+093.741;094.742;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+094.742;095.665;Eb:7/Db;Eb:(3, 5, b7)/Db;Eb:maj/Db;Eb:maj;4;D7;3;V42;Ab:maj
+095.665;096.243;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+096.243;096.742;D:dim7;D:(b3, b5, bb7);D:min;D:min;15;d7;0;vii-7/V;Ab:maj
+096.742;097.261;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+097.261;097.740;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+097.740;098.334;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+098.334;098.809;D:dim7;D:(b3, b5, bb7);D:min;D:min;15;d7;0;vii-7/V;Ab:maj
+098.809;099.297;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+099.297;099.784;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+099.784;100.317;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+100.317;100.810;D:dim7;D:(b3, b5, bb7);D:min;D:min;15;d7;0;vii-7/V;Ab:maj
+100.810;101.368;Ab:maj/Eb;Ab:(3, 5)/Eb;Ab:maj/Eb;Ab:maj;9;M;2;I64;Ab:maj
+101.368;102.007;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+102.007;104.465;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+104.465;106.704;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;I;Ab:maj
+106.704;107.784;Eb:7/G;Eb:(3, 5, b7)/G;Eb:maj/G;Eb:maj;4;D7;1;V65;Ab:maj
+107.784;108.763;G:dim/Bb;G:(b3, b5)/Bb;G:min/Bb;G:min;20;d;1;vii-6;Ab:maj
+108.763;109.742;E:dim7/G;E:(b3, b5, bb7)/G;E:min/G;E:min;17;d7;1;vii-65/V;Bb:min
+109.742;110.770;E:(bb3, b5, bb7)/Gb;E:(bb3, b5, bb7)/Gb;E:None/Gb;E:None;0;a6;1;Gr+6;Bb:min
+110.770;111.519;F:maj;F:(3, 5);F:maj;F:maj;6;M;0;V;Bb:min
+111.519;113.219;F:7;F:(3, 5, b7);F:maj;F:maj;6;D7;0;V7;Bb:min
+113.219;113.483;Bb:maj/F;Bb:(3, 5)/F;Bb:maj/F;Bb:maj;11;M;2;i64;Bb:min
+113.483;115.203;F:7;F:(3, 5, b7);F:maj;F:maj;6;D7;0;V7;Bb:min
+115.203;115.456;Bb:maj/F;Bb:(3, 5)/F;Bb:maj/F;Bb:maj;11;M;2;i64;Bb:min
+115.456;116.657;F:7;F:(3, 5, b7);F:maj;F:maj;6;D7;0;V7;Bb:min
+116.657;117.120;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;i6;Bb:min
+117.120;117.584;F:maj/C;F:(3, 5)/C;F:maj/C;F:maj;6;M;2;V64;Bb:min
+117.584;118.035;Bb:min;Bb:(b3, 5);Bb:min;Bb:min;23;m;0;i;Bb:min
+118.035;118.486;F#:(bb3, b5)/Ab;F#:(bb3, b5)/Ab;F#:None/Ab;F#:None;0;a6;1;It+6;C:min
+118.486;119.278;G:maj;G:(3, 5);G:maj;G:maj;8;M;0;V;C:min
+119.278;120.977;G:7;G:(3, 5, b7);G:maj;G:maj;8;D7;0;V7;C:min
+120.977;121.233;C:min/G;C:(b3, 5)/G;C:min/G;C:min;13;m;2;i64;C:min
+121.233;122.915;G:7;G:(3, 5, b7);G:maj;G:maj;8;D7;0;V7;C:min
+122.915;123.178;C:min/G;C:(b3, 5)/G;C:min/G;C:min;13;m;2;i64;C:min
+123.178;124.844;G:7;G:(3, 5, b7);G:maj;G:maj;8;D7;0;V7;C:min
+124.844;125.090;C:min;C:(b3, 5);C:min;C:min;13;m;0;i;C:min
+125.090;126.769;F:7;F:(3, 5, b7);F:maj;F:maj;6;D7;0;V7;Bb:min
+126.769;127.026;Bb:min;Bb:(b3, 5);Bb:min;Bb:min;23;m;0;i;Bb:min
+127.026;129.237;Eb:7;Eb:(3, 5, b7);Eb:maj;Eb:maj;4;D7;0;V7;Ab:maj
+129.237;130.171;Ab:maj/C;Ab:(3, 5)/C;Ab:maj/C;Ab:maj;9;M;1;I6;Ab:maj
+130.171;131.144;Db:maj;Db:(3, 5);Db:maj;Db:maj;2;M;0;IV;Ab:maj
+131.144;132.126;G:dim/Bb;G:(b3, b5)/Bb;G:min/Bb;G:min;20;d;1;vii-6;Ab:maj
+132.126;133.092;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V/vi;Ab:maj
+133.092;134.034;F:min/Ab;F:(b3, 5)/Ab;F:min/Ab;F:min;18;m;1;vi6;Ab:maj
+134.034;134.991;Bb:min;Bb:(b3, 5);Bb:min;Bb:min;23;m;0;iv;F:min
+134.991;135.962;B:dim7;B:(b3, b5, bb7);B:min;B:min;24;d7;0;vii-7/V;F:min
+135.962;136.963;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V;F:min
+136.963;137.898;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+137.898;138.866;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V;F:min
+138.866;139.367;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+139.367;139.867;B:dim;B:(b3, b5);B:min;B:min;24;d;0;vii-/V;F:min
+139.867;140.811;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V;F:min
+140.811;141.740;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+141.740;142.663;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+142.663;143.188;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+143.188;143.633;B:dim;B:(b3, b5);B:min;B:min;24;d;0;vii-/V;F:min
+143.633;144.591;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+144.591;145.073;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+145.073;145.556;B:dim;B:(b3, b5);B:min;B:min;24;d;0;vii-/V;F:min
+145.556;146.491;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+146.491;147.017;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+147.017;147.502;B:dim;B:(b3, b5);B:min;B:min;24;d;0;vii-/V;F:min
+147.502;149.577;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V;F:min
+149.577;150.591;Gb:maj/Db;Gb:(3, 5)/Db;Gb:maj/Db;Gb:maj;7;M;2;bII64;F:min
+150.591;151.595;Bb:min;Bb:(b3, 5);Bb:min;Bb:min;23;m;0;iv;F:min
+151.595;152.575;C:7/Bb;C:(3, 5, b7)/Bb;C:maj/Bb;C:maj;1;D7;3;V42;F:min
+152.575;153.539;F:min/Ab;F:(b3, 5)/Ab;F:min/Ab;F:min;18;m;1;i6;F:min
+153.539;154.515;Bb:7/Ab;Bb:(3, 5, b7)/Ab;Bb:maj/Ab;Bb:maj;11;D7;3;V42/bVII;F:min
+154.515;155.518;C:7/G;C:(3, 5, b7)/G;C:maj/G;C:maj;1;D7;2;V43;F:min
+155.518;157.546;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+157.546;159.584;C:7/E;C:(3, 5, b7)/E;C:maj/E;C:maj;1;D7;1;V65;F:min
+159.584;160.641;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+160.641;161.774;C:7/G;C:(3, 5, b7)/G;C:maj/G;C:maj;1;D7;2;V43;F:min
+161.774;162.441;F:min/Ab;F:(b3, 5)/Ab;F:min/Ab;F:min;18;m;1;i6;F:min
+162.441;163.067;G:dim/Bb;G:(b3, b5)/Bb;G:min/Bb;G:min;20;d;1;vii-6;F:min
+163.067;165.844;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V;F:min
+165.844;168.249;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+168.249;169.359;Gb:maj;Gb:(3, 5);Gb:maj;Gb:maj;7;M;0;VI;Bb:min
+169.359;170.395;C:dim/Eb;C:(b3, b5)/Eb;C:min/Eb;C:min;13;d;1;ii-6;Bb:min
+170.395;171.455;F:7/Eb;F:(3, 5, b7)/Eb;F:maj/Eb;F:maj;6;D7;3;V42;Bb:min
+171.455;172.590;Bb:min/Db;Bb:(b3, 5)/Db;Bb:min/Db;Bb:min;23;m;1;i6;Bb:min
+172.590;173.484;G:7/D;G:(3, 5, b7)/D;G:maj/D;G:maj;8;D7;2;V43/V;F:min
+173.484;174.497;B:dim7/D;B:(b3, b5, bb7)/D;B:min/D;B:min;24;d7;1;vii-65/V;F:min
+174.497;175.467;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V;F:min
+175.467;175.977;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+175.977;176.475;Db:maj;Db:(3, 5);Db:maj;Db:maj;2;M;0;VI;F:min
+176.475;177.256;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V;F:min
+177.256;178.976;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+178.976;179.246;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+179.246;180.924;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+180.924;181.156;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+181.156;182.346;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+182.346;182.850;F:min/Ab;F:(b3, 5)/Ab;F:min/Ab;F:min;18;m;1;i6;F:min
+182.850;183.313;E:dim/G;E:(b3, b5)/G;E:min/G;E:min;17;d;1;vii-6;F:min
+183.313;183.779;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+183.779;184.244;B:dim/D;B:(b3, b5)/D;B:min/D;B:min;24;d;1;vii-6/V;F:min
+184.244;184.717;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V;F:min
+184.717;185.190;B:dim/D;B:(b3, b5)/D;B:min/D;B:min;24;d;1;vii-6/V;F:min
+185.190;185.672;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V;F:min
+185.672;186.114;E:dim7/Bb;E:(b3, b5, bb7)/Bb;E:min/Bb;E:min;17;d7;2;vii-43;F:min
+186.114;186.571;F:min/Ab;F:(b3, 5)/Ab;F:min/Ab;F:min;18;m;1;i6;F:min
+186.571;187.057;E:dim7/Bb;E:(b3, b5, bb7)/Bb;E:min/Bb;E:min;17;d7;2;vii-43;F:min
+187.057;187.520;F:min/Ab;F:(b3, 5)/Ab;F:min/Ab;F:min;18;m;1;i6;F:min
+187.520;187.983;C:maj/E;C:(3, 5)/E;C:maj/E;C:maj;1;M;1;V6;F:min
+187.983;188.461;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+188.461;188.899;C:7/G;C:(3, 5, b7)/G;C:maj/G;C:maj;1;D7;2;V43;F:min
+188.899;189.887;F:min/Ab;F:(b3, 5)/Ab;F:min/Ab;F:min;18;m;1;i6;F:min
+189.887;190.855;G:dim/Bb;G:(b3, b5)/Bb;G:min/Bb;G:min;20;d;1;ii-6;F:min
+190.855;191.840;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+191.840;192.818;C:7/Bb;C:(3, 5, b7)/Bb;C:maj/Bb;C:maj;1;D7;3;V42;F:min
+192.818;193.798;F:min/Ab;F:(b3, 5)/Ab;F:min/Ab;F:min;18;m;1;i6;F:min
+193.798;194.792;G:dim/Bb;G:(b3, b5)/Bb;G:min/Bb;G:min;20;d;1;ii-6;F:min
+194.792;195.788;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+195.788;196.291;C:maj;C:(3, 5);C:maj;C:maj;1;M;0;V;F:min
+196.291;196.793;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+196.793;197.370;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+197.370;197.907;B:(bb3, b5, bb7)/Db;B:(bb3, b5, bb7)/Db;B:None/Db;B:None;0;a6;1;Gr+6;F:min
+197.907;198.409;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+198.409;198.910;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+198.910;199.508;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+199.508;199.998;B:(bb3, b5, bb7)/Db;B:(bb3, b5, bb7)/Db;B:None/Db;B:None;0;a6;1;Gr+6;F:min
+199.998;200.538;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+200.538;200.997;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+200.997;201.548;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+201.548;202.019;B:(bb3, b5, bb7)/Db;B:(bb3, b5, bb7)/Db;B:None/Db;B:None;0;a6;1;Gr+6;F:min
+202.019;202.575;F:min/C;F:(b3, 5)/C;F:min/C;F:min;18;m;2;i64;F:min
+202.575;203.251;C:7/Bb;C:(3, 5, b7)/Bb;C:maj/Bb;C:maj;1;D7;3;V42;F:min
+203.251;204.434;F:7/A;F:(3, 5, b7)/A;F:maj/A;F:maj;6;D7;1;V65/iv;F:min
+204.434;205.638;Bb:min;Bb:(b3, 5);Bb:min;Bb:min;23;m;0;iv;F:min
+205.638;206.790;Eb:7/G;Eb:(3, 5, b7)/G;Eb:maj/G;Eb:maj;4;D7;1;V65/III;F:min
+206.790;207.599;Ab:maj;Ab:(3, 5);Ab:maj;Ab:maj;9;M;0;III;F:min
+207.599;207.868;Db:maj7/F;Db:(3, 5, 7)/F;Db:maj/F;Db:maj;2;M7;1;VI65;F:min
+207.868;208.126;G:dim;G:(b3, b5);G:min;G:min;20;d;0;ii-;F:min
+208.126;208.368;C:7/E;C:(3, 5, b7)/E;C:maj/E;C:maj;1;D7;1;V65;F:min
+208.368;208.624;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min
+208.624;208.900;Db:maj;Db:(3, 5);Db:maj;Db:maj;2;M;0;VI;F:min
+208.900;209.492;G:hdim7/Bb;G:(b3, b5, b7)/Bb;G:min/Bb;G:min;20;h7;1;ii=65;F:min
+209.492;210.164;C:7;C:(3, 5, b7);C:maj;C:maj;1;D7;0;V7;F:min
+210.164;211.541;F:min;F:(b3, 5);F:min;F:min;18;m;0;i;F:min

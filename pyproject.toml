@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "textalignsynth"
+dynamic = ["version"]
+description = "Python package for speech-based auditory display."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+    {name = "Sebastian Strahl", email = "sebastian.strahl@audiolabs-erlangen.de"},
+    {name = "Yigitcan Özer", email = "yigitcan.oezer@audiolabs-erlangen.de"},
+    {name = "Hans-Ulrich Berendes", email = "hans-ulrich.berendes@audiolabs-erlangen.de"},
+    {name = "Meinard Müller", email = "meinard.mueller@audiolabs-erlangen.de"},
+]
+dependencies = [
+    "torch>=2.0.0",
+    "pandas>=1.0.0",
+    "tqdm>=4.0.0",
+    "librosa>=0.10.0",
+    "libtsm>=1.1.0",
+    "pyloudnorm>=0.1.0",
+    "tts==0.22.0",
+]
+requires-python = ">=3.9, <3.12"
+
+[project.urls]
+Homepage = "https://github.com/groupmm/textalignsynth"
+Repository = "https://github.com/groupmm/textalignsynth"
+
+[tool.setuptools.dynamic]
+version = { attr = "textalignsynth.__version__" }
